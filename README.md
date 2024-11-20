@@ -1,7 +1,7 @@
 # 🚀 Practice: C++ Basics 
 
 Welcome to the **Practice: C++ Basics** repository! 🎉  
-This repository contains my very first steps into the world of programming, focusing on **C++**, a language that builds the foundation for many advanced topics in software development. It includes a collection of **basic C++ programs** that I wrote during the early days of my programming journey.
+This repository contains my very first steps into the world of programming, focusing on **C++**, a language that builds the foundation for many advanced topics in software development. It includes a collection of **basic C++ programs** that I wrote during the very early days of my programming journey.
 
 ---
 
